@@ -1,0 +1,5 @@
+historico_voos.db
+principal.db
+__pycache__/
+*.pyc
+.venv/
